@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "580632456608",
+      "project_id": "punture-system",
+      "storage_bucket": "punture-system.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:580632456608:android:194505e6fce65faf7788c5",
+          "android_client_info": {
+            "package_name": "com.example.punture_system_app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "580632456608-il98k7ovb3l0gtqt4gk4mkfhqlhvajto.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDkEmJL9itXWITfdWjdi5K5KHmnGojj9dY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "580632456608-il98k7ovb3l0gtqt4gk4mkfhqlhvajto.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
